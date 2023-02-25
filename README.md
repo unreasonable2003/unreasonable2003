@@ -1,14 +1,16 @@
 ### Hello Stalkers 
 
-<div style="display: flex; flex-direction: row; gap = 20px;">
+<h1>🔭 Top Languages used:</h1>
+<br>
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unreasonable2003&theme=radical)" />
+ <br>
+ <h1>📊 My Stats:</h1>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=unreasonable2003&show_icons=true&theme=radical" />
- 
-</div>
-
+ <br>
+ <h1>🧠 My Brain Mode currently</h1>
+ <br>
 <div style="display: flex; flex-direction: row; gap = 20px;">
   <img class="img" src="https://github.com/unreasonable2003/unreasonable2003/blob/main/cow-udder.gif" />
-  
 </div>
 
 
