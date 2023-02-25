@@ -7,7 +7,7 @@
  <h1>📊 My Stats:</h1>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=unreasonable2003&show_icons=true&theme=radical" />
  <br>
- <h1>🧠 My Brain Mode currently</h1>
+ <h1>🧠 My last Brain cell right now</h1>
  <br>
 <div style="display: flex; flex-direction: row; gap = 20px;">
   <img class="img" src="https://github.com/unreasonable2003/unreasonable2003/blob/main/cow-udder.gif" />
