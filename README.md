@@ -1,6 +1,6 @@
-### Hello Stalkers 
+### <div align="center"><h2>Hello Stalkers</h2> </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unreasonable2003&rank=SECRET,A,C,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=unreasonable2003&rank=SECRET,A,C,AAA&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 <h1>🔭 Top Languages used:</h1>
@@ -17,7 +17,7 @@
 </div>
 <br>
  
-<div style="display: flex; flex-direction: row; text-align: center;">
+<div style="display: flex; flex-direction: row; text-align: center;" align="center">
   <img class="img" src="https://komarev.com/ghpvc/?username=unreasonable2003&color=green" />
 </div>
 
