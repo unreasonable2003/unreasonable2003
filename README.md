@@ -12,7 +12,11 @@
 <div style="display: flex; flex-direction: row; gap = 20px;">
   <img class="img" src="https://github.com/unreasonable2003/unreasonable2003/blob/main/cow-udder.gif" />
 </div>
-
+<br>
+ 
+<div style="display: flex; flex-direction: row; text-align: center;">
+  <img class="img" src="https://komarev.com/ghpvc/?username=unreasonable2003&color=green" />
+</div>
 
 
 <!--
