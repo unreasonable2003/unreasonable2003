@@ -6,10 +6,6 @@
  <h1>📊 My Stats:</h1>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=unreasonable2003&show_icons=true&theme=radical" />
  <br>
- 
-<div style="display: flex; flex-direction: row; text-align: center;" align="center">
-  <img class="img" src="https://komarev.com/ghpvc/?username=unreasonable2003&color=green" />
-</div>
 
 <h1>Connect with me</h1>
 
@@ -22,12 +18,10 @@
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
   
- <h1>🧠 My last Brain cell right now</h1>
- <br>
-<div style="display: flex; flex-direction: row; gap = 20px;">
-  <img class="img" src="https://github.com/unreasonable2003/unreasonable2003/blob/main/cow-udder.gif" />
+ 
+<div style="display: flex; flex-direction: row; text-align: center;" align="center">
+  <img class="img" src="https://komarev.com/ghpvc/?username=unreasonable2003&color=green" />
 </div>
-<br>
 
 <!--
 **unreasonable2003/unreasonable2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
